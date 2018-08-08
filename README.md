@@ -1,6 +1,5 @@
-# AWS-Knowledge-Center
 
-# 展示AWS相关信息与技术文档
+# 展示AWS CLi相关信息
 
 可暂时在此博客查看相关技术文档
 
