@@ -1,4 +1,5 @@
 #!/bin/bash
+#
 rm -rf /opt/eosbackup/*.tar.gz
 #
 storebp=`date +%F\-%H_%M_%S`
