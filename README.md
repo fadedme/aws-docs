@@ -1,5 +1,5 @@
 
-# aws cli
+# aws cli （命令行操作命令整理）
 
 在服务器上面安装aws cli（在window、Mac、Linux环境都可以安装）
     
