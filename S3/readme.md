@@ -7,9 +7,6 @@
 浏览器展示备份数据
 
 
-
-
-
 **创建一个桶&删除一个桶**
 
     root@syavingc:~# aws s3 mb s3://syavingc   #创建一个桶
