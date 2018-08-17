@@ -1,8 +1,7 @@
 #!/bin/bash
 #create ec2 ebs snapshot per week.
 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
-#
-
+#xx
 log_dir=/tmp/ec2-snapshot/
 [ -d ${log_dir} ] || mkdir -p ${log_dir}
 aws_user=$(aws iam get-user | awk -F\" ‘/UserName/{print $4}‘)
