@@ -1,4 +1,12 @@
 
+#玩转AWS（持续更新）
+
+
+![](https://i.imgur.com/6kSnjBr.png)
+
+
+
+
 # aws cli （命令行操作命令整理）
 
 在服务器上面安装aws cli（在window、Mac、Linux环境都可以安装）
