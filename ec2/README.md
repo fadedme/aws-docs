@@ -1,4 +1,9 @@
-# EC2实例相关命令
+# EC2
+
+
+![](https://i.imgur.com/y9OC9Vo.png)
+
+
   
 启动EC2实例
 
