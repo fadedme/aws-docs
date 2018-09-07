@@ -1,8 +1,14 @@
 
 #AWS EFS
 
-已验证window端使用第三方工具进行使用efs
+需求，EC2A和EC2B挂在通一个目录C，共用C目录的数据
+
+现状是搭建的NFS
+
+已验证window端使用第三方工具（nfs_client-4.1）进行使用efs
 待更新技术文档
+
+opentext客户端与命令行  验证无法使用
 
 
 

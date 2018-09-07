@@ -7,9 +7,10 @@
 
 
 
-# aws cli （命令行操作命令整理）
+# aws cli 
 
-在服务器上面安装aws cli（在window、Mac、Linux环境都可以安装）
+
+安装aws cli（在window、Mac、Linux环境都可以安装）
     
 部署pip
 
