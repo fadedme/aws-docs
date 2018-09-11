@@ -29,9 +29,9 @@
     Default output format [json]: json      ##输出格式
  
 
-可暂时在此博客查看相关技术文档
+此博客查看相关技术文档
 
-[syaving.com](https://www.cnblogs.com/syaving/p/8649729.html/)
+[玩转AWS（加群：433925393）](https://www.cnblogs.com/syaving/p/8649729.html/)
 
 
 
