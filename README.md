@@ -2,7 +2,7 @@
 #玩转AWS（持续更新）
 
 
-![](https://i.imgur.com/6kSnjBr.png)
+![](https://i.imgur.com/423J0uJ.png)
 
 
 
@@ -31,7 +31,7 @@
 
 此博客查看相关技术文档
 
-[玩转AWS（加群：433925393）](https://www.cnblogs.com/syaving/p/8649729.html/)
+[玩转AWS](https://www.cnblogs.com/syaving/p/8649729.html/)
 
 
 
