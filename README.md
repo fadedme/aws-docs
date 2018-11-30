@@ -2,11 +2,6 @@
 #玩转AWS（持续更新）
 
 
-![](https://i.imgur.com/423J0uJ.png)
-
-
-
-
 # aws cli 
 
 
