@@ -1,3 +1,0 @@
-#AWS CLI
-
-整理EC2、S3等常用的CLI
