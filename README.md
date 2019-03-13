@@ -25,6 +25,10 @@ https://s3.cn-north-1.amazonaws.com.cn/aws-builder-club/%E5%AE%A2%E6%88%B7%E6%88
 
 https://s3.cn-north-1.amazonaws.com.cn/aws-builder-club/Industry+Solutions&AI.zip
 
+#20190305#AWS在线研讨会#在AWS上构建大规模在线教学平台
+
+https://drive.google.com/open?id=1bFYaTq5sH2IGQGaEJO7nGi-35c8wgNB7
+
 
 #20190312#AWS在线研讨会#制胜游戏出海-AWS Virtual Game Day
 
