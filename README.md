@@ -34,3 +34,10 @@ https://drive.google.com/open?id=1bFYaTq5sH2IGQGaEJO7nGi-35c8wgNB7
 
 https://s3.cn-north-1.amazonaws.com.cn/sides-share/AWS+Webinar+2019/PDF/AWS+Virtual+Game+Tech+Day+0312.zip
 
+# 猪年福利第三弹下载链接：
+
+https://s3.cn-north-1.amazonaws.com.cn/aws-builder-club/Internet+of+Things.zip
+
+https://s3.cn-north-1.amazonaws.com.cn/aws-builder-club/video.xlsx
+
+
