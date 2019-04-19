@@ -1,6 +1,7 @@
 
 # AWS资料整理
 
+<a title="Hits" target="_blank" href="https://github.com/iteablue/aws-docs"><img src="https://hits.b3log.org/b3log/hits.svg"></a>
 
 
 [玩转AWS](https://www.cnblogs.com/syaving/p/8649729.html/)
